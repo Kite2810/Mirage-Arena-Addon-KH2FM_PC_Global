@@ -1,0 +1,160 @@
+- id: 0x1383
+  en: Defeat all of the Heartless!
+  sp: 
+  fr: 
+  gr: Besiege alle Herzlosen!
+  it: 
+- id: 0x1384
+  en: Defeat all of the Nobodies!
+  sp: 
+  fr: 
+  gr: Besiege alle Niemande!
+  it: 
+- id: 0x1385
+  en: Defeat all of the Unversed!
+  sp: 
+  fr: 
+  gr: Besiege alle Unversierte!
+  it: 
+- id: 0x1386
+  en: Defeat all of the Dream Eater!
+  sp: 
+  fr: 
+  gr: Besiege alle Traumfänger!
+  it: 
+- id: 0x1387
+  en: Defeat Noheart!
+  sp: 
+  fr: 
+  gr: Besiege Noheart!
+  it: 
+- id: 0x46CB
+  en: Start challenge?
+
+      {:chardelay 33 00}I'm not ready.
+
+      {:chardelay 09 00}Let's do this!
+  sp: 
+  fr: 
+  gr: Herausforderung starten?
+
+      {:chardelay 33 00}Ich fühl mich nicht bereit.
+
+      {:chardelay 09 00}Gehen wir es an!
+  it: 
+- id: 0x4D2C
+  en: Mirage Arena
+  sp: Mirage Arena
+  fr: Mirage Arena
+  gr: Mirage-Arena
+  it: Mirage Arena
+- id: 0x14BF
+  en: Heartless
+  sp: 
+  fr: 
+  gr: Herzlose
+  it: 
+- id: 0x14C0
+  en: Nobody
+  sp: 
+  fr: 
+  gr: Niemande
+  it: 
+- id: 0x14C1
+  en: Unversed
+  sp: 
+  fr: 
+  gr: Unversierte
+  it: 
+- id: 0x14C2
+  en: Dream Eater
+  sp: 
+  fr: 
+  gr: Traumfänger
+  it: 
+- id: 0x14C3
+  en: Noheart
+  sp: 
+  fr: 
+  gr: Noheart
+  it: 
+- id: 0x14C5
+  en: Defeat all of the 
+
+      Heartless!
+
+
+  sp: 
+  fr: 
+  gr: 
+
+      Besiege alle Herzlosen!
+
+      
+  it: 
+- id: 0x14C8
+  en: Defeat all of the
+
+      Nobodies!
+
+
+  sp: 
+  fr: 
+  gr: 
+
+      Besiege alle Niemande!
+
+      
+  it: 
+- id: 0x14CB
+  en: Defeat all of the
+
+      Unversed!
+
+      
+  sp: 
+  fr: 
+  gr: 
+
+      Besiege alle Unversierte!
+
+      
+  it: 
+- id: 0x14CE
+  en: Defeat all of the
+
+      Dream Eater!
+  sp: 
+  fr: 
+  gr: 
+
+      Besiege alle Traumfänger!
+
+
+  it: 
+- id: 0x14D1
+  en: 
+
+      Defeat Noheart!
+
+      
+  sp: 
+  fr: 
+  gr: 
+
+      Besiege Noheart!
+
+      
+  it: 
+- id: 0x14D5
+  en: Select a challenge.
+  sp: 
+  fr: 
+  gr: Wähle eine Herausforderung aus.
+  it: 
+- id: 0x14D6
+  en: Start this challenge?
+  sp: 
+  fr: 
+  gr: Diese Herausforderung starten?
+  it: 

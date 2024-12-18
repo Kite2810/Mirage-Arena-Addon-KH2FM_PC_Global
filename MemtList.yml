@@ -1,0 +1,11 @@
+MemtEntries: 
+  - Index: 35
+    WorldId: 11
+    CheckStoryFlag: 0
+    CheckStoryFlagNegation: 0
+    Unk06: 0
+    Unk08: 0
+    Unk0A: 60
+    Unk0C: 0
+    Unk0E: 33
+    Members: [84, 918, 919, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

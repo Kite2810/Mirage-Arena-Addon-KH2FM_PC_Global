@@ -1,0 +1,33 @@
+#NOHEART
+- Id: 254
+  Level: 55
+  Health:
+  - 1878
+  MaxDamage: 79
+  MinDamage: 26
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 50
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+- Id: 255
+  Level: 95
+  Health:
+  - 1878
+  MaxDamage: 79
+  MinDamage: 26
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 50
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
