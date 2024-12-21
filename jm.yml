@@ -11,7 +11,17 @@
   gr: Mirage-Arena
   it: Mirage Arena
 - id: 0x2BB3
-  en: 
+  en: We have found a mysterious place.
+
+      It is reminiscent of all the worlds out there.
+      
+      This world here, however, is much smaller than the
+
+      worlds we have visited so far.
+      
+      
+      
+      
   sp: 
   fr: 
   gr: Wir haben einen Mysteriösen Ort gefunden.
@@ -27,7 +37,16 @@
       
   it: 
 - id: 0x2BB4
-  en: 
+  en: When we entered the place, there was
+
+      there was only a computer. After we took a closer
+
+      the device, the screen showed us the following
+
+      the screen showed us the following words.
+
+
+      “Start challenge?”
   sp: 
   fr: 
   gr: Als wir den Ort betreten haben, stand
@@ -42,7 +61,26 @@
       "Herausforderung starten?"
   it: 
 - id: 0x2BB5
-  en: 
+  en: After Sora dialed in, we were transported
+
+      we were transported to an arena. There
+
+      Sora faced the Heartless alone and
+
+      forced them.
+
+
+      After the victory, we were transported back to the com
+
+      transported back to the computer.
+
+
+      Maybe we should come back later
+
+      come back later.
+
+
+
   sp: 
   fr: 
   gr: Nachdem Sora sich einwählte wurden
@@ -68,7 +106,23 @@
 
   it: 
 - id: 0x2BB6
-  en: 
+  en: After we came back later
+
+      we were able to take part in a challenge again.
+
+      challenge again.
+
+      
+      This time Sora had to face a 
+
+      bunch of nobodies.
+
+
+      After Sora's victory, we decided
+
+      decided to come back again later.
+
+
   sp: 
   fr: 
   gr: Nachdem wir später zurück gekommen
@@ -92,7 +146,25 @@
 
   it: 
 - id: 0x2BB7
-  en: 
+  en: We landed a third time in this world
+
+      world a third time and took part
+
+      in the challenge.
+
+      
+
+      This time Sora had to face mysterious
+
+      ious opponents. 
+
+
+
+      They were far different from our 
+
+      opponents before.
+
+
   sp: 
   fr: 
   gr: Wir landeten ein drittes mal in dieser
@@ -117,7 +189,15 @@
 
   it: 
 - id: 0x2BB8
-  en: 
+  en: Now that we have landed a fourth time in
+
+      the world for the fourth time, we wondered when
+
+      we will have mastered all the challenges
+
+      all the challenges.
+
+
   sp: 
   fr: 
   gr: Nachdem wir nun ein viertes mal in
@@ -132,7 +212,15 @@
 
   it: 
 - id: 0x2BB9
-  en: 
+  en: This time we once again faced
+
+      unknown opponents. They
+
+      had something magical, almost 
+
+      “dreamlike” quality about them.
+
+
   sp: 
   fr: 
   gr: Dieses mal stellten sich uns wieder
@@ -147,7 +235,33 @@
 
   it: 
 - id: 0x2BBA
-  en: 
+  en: This is the fifth time we've been 
+
+      here. What can we expect this time
+
+      will be?
+
+
+
+
+      This time we had to fight an 
+
+      unknown person. He had 
+
+      a crown and was stronger than any
+
+      opponent we have fought so far.
+
+      However, Sora was able to win 
+
+      win the hand for himself and we 
+
+      got a material at the end.
+
+
+
+      What an interesting place.
+
   sp: 
   fr: 
   gr: Nun sind wir schon zum fünften mal 
@@ -179,7 +293,12 @@
 
   it: 
 - id: 0x2A4E
-  en: 
+  en: We visit this mysterious world. It is
+
+      much smaller than all the other worlds we have
+
+      we have visited.
+
   sp: 
   fr: 
   gr: Wir besuchen diese mysteriöse Welt. Sie ist
@@ -191,13 +310,18 @@
 
   it: 
 - id: 0x2A4F
-  en: 
+  en: Head to the computer when ready!
   sp: 
   fr: 
   gr: Auf zum Computer, wenn bereit!
   it: 
 - id: 0x2A52
-  en: 
+  en: It seems like it's an arena. We have
+
+      fought against the heartless and won.
+
+      carried the day.
+
   sp: 
   fr: 
   gr: Es scheint als wäre es eine Arena. Wir haben
@@ -209,13 +333,18 @@
 
   it: 
 - id: 0x2A53
-  en: 
+  en: Head to the computer, but with a "Magnet"!
   sp: 
   fr: 
   gr: Auf zum Computer, aber mit "Magnet"!
   it: 
 - id: 0x2A54
-  en: 
+  en: This time we had to compete against a bunch of
+
+      nobody. Which opponents will 
+
+      await us next time?
+
   sp: 
   fr: 
   gr: Dieses mal mussten wir gegen einen Haufen
@@ -227,13 +356,18 @@
 
   it: 
 - id: 0x2A55
-  en: 
+  en: Head to the computer, but with Drive Gauge 5!
   sp: 
   fr: 
   gr: Auf zum Computer, aber mit Drive-Wert 5!
   it: 
 - id: 0x2A56
-  en: 
+  en: This time we had to face unknown opponents.
+
+      this time. They moved strangely and radiated
+
+      an ominous negativity.
+
   sp: 
   fr: 
   gr: Wir mussten uns dieses mal Unbekannten Gegnern
@@ -245,13 +379,18 @@
 
   it: 
 - id: 0x2A57
-  en: 
+  en: Head to the computer, but with "Magnera"!
   sp: 
   fr: 
   gr: Auf zum Computer, aber mit "Magnera"!
   it: 
 - id: 0x2A5A
-  en: 
+  en: Our opponents this time were somehow
+
+      “Magical”. In any case, they were pretty
+
+      special, but incredibly strong.
+
   sp: 
   fr: 
   gr: Unsere Gegner dieses mal waren irgendwie
@@ -263,13 +402,18 @@
 
   it: 
 - id: 0x2A5B
-  en: 
+  en: Head to the computer, but with "Blitzga"!
   sp: 
   fr: 
   gr: Auf zum Computer, aber mit "Blitzga"!
   it: 
 - id: 0x2A5C
-  en: 
+  en: The king of this arena was this time
+
+      our opponent this time. He radiated great dark
+
+      power. Sora only narrowly defeated him.
+
   sp: 
   fr: 
   gr: Der König dieser Arena war dieses mal

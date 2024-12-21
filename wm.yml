@@ -1,11 +1,13 @@
 - id: 0x487C
-  en: Lande in Mirage-Arena
-  sp: Lande in Mirage-Arena
-  fr: Lande in Mirage-Arena
+  en: Land in Mirage-Arena
+  sp: 
+  fr: 
   gr: Lande in Mirage-Arena
-  it: Lande in Mirage-Arena
+  it: 
 - id: 0x4C2A
-  en: 
+  en: The next challenge will be unlocked when you
+
+      have mastered the "Magnet" magic.
   sp: 
   fr: 
   gr: Die Nächste Herausforderung wird freigeschaltet,
@@ -13,7 +15,9 @@
       wenn du die "Magnet"-Magie beherrscht.
   it: 
 - id: 0x4C2B
-  en: 
+  en: The next challenge is unlocked, when your
+
+      Drive Gauge has 5 or more units.
   sp: 
   fr: 
   gr: Die Nächste Herausforderung wird freigeschaltet,
@@ -21,7 +25,9 @@
       wenn deine Drive-Leiste 5 oder mehr einheiten aufweist.
   it: 
 - id: 0x4C2C
-  en: 
+  en: The next challenge will be unlocked when you
+
+      have mastered the "Magnera" magic.
   sp: 
   fr: 
   gr: Die Nächste Herausforderung wird freigeschaltet,
@@ -29,7 +35,9 @@
       wenn du die "Magnera"-Magie beherrscht.
   it: 
 - id: 0x4C2D
-  en: 
+  en: The next challenge will be unlocked when you
+
+      have mastered the "Blitzga" magic.
   sp: 
   fr: 
   gr: Die Nächste Herausforderung wird freigeschaltet,
