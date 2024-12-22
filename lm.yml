@@ -1,7 +1,7 @@
 - id: 0x1383
   en: Defeat all of the Heartless!
   sp: 
-  fr: Élimine tout les Sans-cœur !
+  fr: Élimine tout les Sans-cæur !
   gr: Besiege alle Herzlosen!
   it: 
 - id: 0x1384
@@ -55,7 +55,7 @@
 - id: 0x14BF
   en: Heartless
   sp: 
-  fr: Sans-cœur
+  fr: Sans-cæur
   gr: Herzlose
   it: 
 - id: 0x14C0
@@ -91,7 +91,7 @@
   sp: 
   fr: Élimine tout les
 
-      Sans-cœur!
+      Sans-cæur!
 
 
   gr: 
