@@ -1,31 +1,31 @@
 - id: 0x1383
   en: Defeat all of the Heartless!
   sp: 
-  fr: 
+  fr: Élimine tout les Sans-cœur !
   gr: Besiege alle Herzlosen!
   it: 
 - id: 0x1384
   en: Defeat all of the Nobodies!
   sp: 
-  fr: 
+  fr: Élimine tout les Simili !
   gr: Besiege alle Niemande!
   it: 
 - id: 0x1385
   en: Defeat all of the Unversed!
   sp: 
-  fr: 
+  fr: Élimine tout les Nescient !
   gr: Besiege alle Unversierte!
   it: 
 - id: 0x1386
   en: Defeat all of the Dream Eater!
   sp: 
-  fr: 
+  fr: Élimine tout les Avale-Rêve !
   gr: Besiege alle Traumfänger!
   it: 
 - id: 0x1387
   en: Defeat Noheart!
   sp: 
-  fr: 
+  fr: Élimine Noheart !
   gr: Besiege Noheart!
   it: 
 - id: 0x46CB
@@ -35,7 +35,11 @@
 
       {:chardelay 09 00}Let's do this!
   sp: 
-  fr: 
+  fr: Commencer l'épreuve?
+
+      {:chardelay 33 00}Je dois me préparer.
+
+      {:chardelay 09 00}C'est parti!
   gr: Herausforderung starten?
 
       {:chardelay 33 00}Ich fühl mich nicht bereit.
@@ -45,37 +49,37 @@
 - id: 0x4D2C
   en: Mirage Arena
   sp: Mirage Arena
-  fr: Mirage Arena
+  fr: Arène des Mirages
   gr: Mirage-Arena
   it: Mirage Arena
 - id: 0x14BF
   en: Heartless
   sp: 
-  fr: 
+  fr: Sans-cœur
   gr: Herzlose
   it: 
 - id: 0x14C0
   en: Nobody
   sp: 
-  fr: 
+  fr: Simili
   gr: Niemande
   it: 
 - id: 0x14C1
   en: Unversed
   sp: 
-  fr: 
+  fr: Nescient
   gr: Unversierte
   it: 
 - id: 0x14C2
   en: Dream Eater
   sp: 
-  fr: 
+  fr: Avale-Rêve
   gr: Traumfänger
   it: 
 - id: 0x14C3
   en: Noheart
   sp: 
-  fr: 
+  fr: Noheart
   gr: Noheart
   it: 
 - id: 0x14C5
@@ -85,7 +89,11 @@
 
 
   sp: 
-  fr: 
+  fr: Élimine tout les
+
+      Sans-cœur!
+
+
   gr: 
 
       Besiege alle Herzlosen!
@@ -99,7 +107,11 @@
 
 
   sp: 
-  fr: 
+  fr: Élimine tout les
+
+      Simili!
+
+
   gr: 
 
       Besiege alle Niemande!
@@ -113,7 +125,11 @@
 
       
   sp: 
-  fr: 
+  fr: Élimine tout les
+
+      Nescient!
+
+
   gr: 
 
       Besiege alle Unversierte!
@@ -125,7 +141,11 @@
 
       Dream Eater!
   sp: 
-  fr: 
+  fr: Élimine tout les
+
+      Avale-Rêve!
+
+
   gr: 
 
       Besiege alle Traumfänger!
@@ -140,6 +160,10 @@
       
   sp: 
   fr: 
+
+      Élimine Noheart!
+
+      
   gr: 
 
       Besiege Noheart!
@@ -149,13 +173,13 @@
 - id: 0x14D5
   en: Select a challenge.
   sp: 
-  fr: 
+  fr: Choisissez une épreuve.
   gr: Wähle eine Herausforderung aus.
   it: 
 - id: 0x14D6
   en: Start this challenge?
   sp: 
-  fr: 
+  fr: Participer à cette épreuve?
   gr: Diese Herausforderung starten?
   it: 
 - id: 0x46CC
@@ -197,7 +221,7 @@
 
       {:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -265,7 +289,7 @@
 
       {:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -333,7 +357,7 @@
 
       {:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -401,7 +425,7 @@
 
       {:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -467,7 +491,7 @@
 
       Napstio{:clear }Italia Translation
 
-      {:clear }Spanish Translation
+      Abelatox{:clear }Spanish Translation
 
       {:clear }Tools
 

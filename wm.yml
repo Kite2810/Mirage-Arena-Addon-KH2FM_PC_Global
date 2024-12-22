@@ -1,7 +1,7 @@
 - id: 0x487C
   en: Land in Mirage-Arena
   sp: 
-  fr: 
+  fr: Atterrir à l'Arène des Mirages 
   gr: Lande in Mirage-Arena
   it: 
 - id: 0x4C2A
@@ -9,7 +9,9 @@
 
       have mastered the "Magnet" magic.
   sp: 
-  fr: 
+  fr: Un nouveau défi vous attendra lorsque vous
+
+      maîtriserez la magie "Aimant".
   gr: Die Nächste Herausforderung wird freigeschaltet,
 
       wenn du die "Magnet"-Magie beherrscht.
@@ -19,7 +21,9 @@
 
       Drive Gauge has 5 or more units.
   sp: 
-  fr: 
+  fr: Un nouveau défi vous attendra lorsque votre
+
+      jauge de flux sera supérieure ou égale à 5.
   gr: Die Nächste Herausforderung wird freigeschaltet,
 
       wenn deine Drive-Leiste 5 oder mehr einheiten aufweist.
@@ -29,7 +33,9 @@
 
       have mastered the "Magnera" magic.
   sp: 
-  fr: 
+  fr: Un nouveau défi vous attendra lorsque vous
+
+      maîtriserez la magie "Aimant +".
   gr: Die Nächste Herausforderung wird freigeschaltet,
 
       wenn du die "Magnera"-Magie beherrscht.
@@ -37,9 +43,11 @@
 - id: 0x4C2D
   en: The next challenge will be unlocked when you
 
-      have mastered the "Blitzga" magic.
+      have mastered the "Thundaga" magic.
   sp: 
-  fr: 
+  fr: Un nouveau défi vous attendra lorsque vous
+
+      maîtriserez la magie "Foudre X".
   gr: Die Nächste Herausforderung wird freigeschaltet,
 
       wenn du die "Blitzga"-Magie beherrscht.
