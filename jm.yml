@@ -46,16 +46,16 @@
       
   it: 
 - id: 0x2BB4
-  en: When we entered the place, there was
+  en: When we entered the place, there was  only a 
 
-      there was only a computer. After we took a closer
+      computer. After we took a closer look at the
 
-      the device, the screen showed us the following
+      device, the screen showed us the following
 
-      the screen showed us the following words.
+      words.
 
 
-      “Start challenge?”
+      "Start challenge?"
   sp: 
   fr: Lorsque nous sommes arrivés, il n'y avait
 
@@ -77,23 +77,21 @@
       "Herausforderung starten?"
   it: 
 - id: 0x2BB5
-  en: After Sora dialed in, we were transported
+  en: After Sora dialed in, we were transported to
 
-      we were transported to an arena. There
+      an arena. There Sora faced the Heartless alone
 
-      Sora faced the Heartless alone and
-
-      forced them.
+      and defeated them.
 
 
-      After the victory, we were transported back to the com
+      
+      After the victory, we were transported back to the
 
-      transported back to the computer.
+      computer.
 
 
-      Maybe we should come back later
+      Maybe we should come back later.
 
-      come back later.
 
 
 
@@ -114,7 +112,7 @@
 
 
 
-  gr: Nachdem Sora sich einwählte wurden
+  gr: Nachdem Sora sich einwählte, wurden
 
       wir in eine Arena transportiert. Dort stellte
 
@@ -151,7 +149,7 @@
 
       After Sora's victory, we decided
 
-      decided to come back again later.
+      to come back again later.
 
 
   sp: 
@@ -193,15 +191,13 @@
 - id: 0x2BB7
   en: We landed a third time in this world
 
-      world a third time and took part
-
-      in the challenge.
+      world and took part in the challenge.
 
       
 
       This time Sora had to face mysterious
 
-      ious opponents. 
+      opponents. 
 
 
 
@@ -254,11 +250,9 @@
 - id: 0x2BB8
   en: Now that we have landed a fourth time in
 
-      the world for the fourth time, we wondered when
+      the world, we wondered when we will have
 
-      we will have mastered all the challenges
-
-      all the challenges.
+      mastered all the challenges
 
 
   sp: 
@@ -283,13 +277,11 @@
 
   it: 
 - id: 0x2BB9
-  en: This time we once again faced
+  en: This time we faced unknown opponents again.
 
-      unknown opponents. They
+      They had something magical, almost
 
-      had something magical, almost 
-
-      “dreamlike” quality about them.
+      "dreamlike" quality about them.
 
 
   sp: 
@@ -333,7 +325,7 @@
 
       However, Sora was able to win 
 
-      win the hand for himself and we 
+      the hand for himself and we 
 
       got a material at the end.
 
@@ -402,7 +394,7 @@
 
       much smaller than all the other worlds we have
 
-      we have visited.
+      visited.
 
   sp: 
   fr: Nous visitons un monde mystérieux,
@@ -426,12 +418,11 @@
   gr: Auf zum Computer, wenn bereit!
   it: 
 - id: 0x2A52
-  en: It seems like it's an arena. We have
+  en: It seems like it's an arena. We have against
 
-      fought against the heartless and won.
+      the heartless and won the day.
 
-      carried the day.
-
+      
   sp: 
   fr: On dirait une sorte d'arène, nous y avons
 
@@ -514,7 +505,7 @@
 - id: 0x2A5A
   en: Our opponents this time were somehow
 
-      “Magical”. In any case, they were pretty
+      "Magical". In any case, they were pretty
 
       special, but incredibly strong.
 
@@ -540,11 +531,12 @@
   gr: Auf zum Computer, aber mit "Blitzga"!
   it: 
 - id: 0x2A5C
-  en: The king of this arena was this time
+  en: The king of this arena was our opponent
 
-      our opponent this time. He radiated great dark
+      this time. He radiated great dark power.
 
-      power. Sora only narrowly defeated him.
+      Sora only narrowly defeated him.
+
 
   sp: 
   fr: Cette fois-ci, notre adversaire était
