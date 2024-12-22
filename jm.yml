@@ -1,12 +1,12 @@
 - id: 0x26BB
   en: Mirage Arena
-  sp: Mirage Arena
+  sp: Coso Virtual
   fr: Arène des Mirages
   gr: Mirage-Arena
   it: Mirage Arena
 - id: 0x36A6
   en: Mirage Arena
-  sp: Mirage Arena
+  sp: Coso Virtual
   fr: Arène des Mirages
   gr: Mirage-Arena
   it: Mirage Arena
@@ -22,7 +22,17 @@
       
       
       
-  sp: 
+  sp: Hemos encontrado un lugar misterioso.
+
+      Es una reminiscencia de todos los mundos.
+      
+      Aunque, este mundo, es mucho más pequeño
+
+      que los otros que hemos visto hasta ahora.
+
+
+
+
   fr: Nous nous retrouvons dans un monde bien étrange.
 
       Il a l'air similaire aux autres mondes que nous
@@ -56,7 +66,16 @@
 
 
       "Start challenge?"
-  sp: 
+  sp: Cuando entramos a este lugar, únicamente había
+
+      un ordenador. Tras inspeccionarlo
+
+      detenidamente, la pantalla nos mostró
+
+      lo siguiente.
+
+
+      "¿Iniciar reto?"
   fr: Lorsque nous sommes arrivés, il n'y avait
 
       qu'un étrange appareil. En l'examinant,
@@ -95,7 +114,22 @@
 
 
 
-  sp: 
+  sp: Justo cuando Sora confirmó, fuimos
+
+      transportados a una arena. Ahí
+
+      Sora enfrentó los Sincorazón individualmente.
+
+
+      Una vez Sora triunfó, fuimos transportados 
+
+      de nuevo al ordenador.
+
+
+      Quizás deberíamos volver más tarde.
+
+
+
   fr: Après s'être inscrit, nous avons été transporté
 
       vers une sorte d'arène où Sora a dû
@@ -152,7 +186,21 @@
       to come back again later.
 
 
-  sp: 
+  sp: Cuando volvimos más tarde
+
+      se nos presentó otro desafío de nuevo.
+
+      
+      En esta ocasión Sora tuvo que enfrentar
+
+      varias hordas de Incorpóreos.
+
+
+      Tras otro triunfo, decidimos
+
+      volver pasado un tiempo.
+
+
   fr: Une fois revenus, nous avons pu participer
 
       à une nouvelle épreuve.
@@ -206,7 +254,21 @@
       opponents before.
 
 
-  sp: 
+  sp: Aterrizando una tercera vez en este mundo
+  
+      decidimos adentrarnos en el tercer desafío.
+      
+      
+      Esta vez Sora tuvo que enfrentar a
+      
+      unos misteriosos enemigos.
+      
+      
+      Eran muy distintos a los
+      
+      enemigos vistos hasta ahora.
+
+
   fr: Nous sommes atterris dans ce monde pour
 
       la troisième et avons de nouveaux
@@ -255,7 +317,13 @@
       mastered all the challenges
 
 
-  sp: 
+  sp: Ahora que hemos aterrizado una cuarta vez
+  
+      en este mundo, nos preguntamos cuando habremos
+      
+      superado todos los desafíos.
+
+
   fr: Nous sommes atterris dans ce monde
 
       pour la quatrième fois.
@@ -284,7 +352,13 @@
       "dreamlike" quality about them.
 
 
-  sp: 
+  sp: Esta vez nos enfrentamos a otros desconocidos.
+      
+      Tenían algo mágico, como una cualidad
+
+      casi "onírica".
+
+
   fr: Cette fois-ci encore, nous
 
       avons affronté des ennemis inconnus.
@@ -333,7 +407,33 @@
 
       What an interesting place.
 
-  sp: 
+  sp: Esta es ya la quinta vez que hemos
+
+      llegado aquí. ¿Qué podemos esperar
+
+      encontrarnos esta vez?
+
+
+
+
+      Esta vez tuvimos que pelear con alguien
+
+      desconocido. Tenía una corona
+
+      y era más fuerte que cualquier
+
+      oponente que hemos encontrado hasta ahora.
+
+      Sin embargo, Sora pudo salir victorioso
+
+      y finalmente fuimos
+      
+      recompensados con un material.
+
+
+
+      Que lugar tan interesante.
+
   fr: Nous sommes revenus pour la cinquième
 
       fois, que nous réserve cet endroit
@@ -396,7 +496,12 @@
 
       visited.
 
-  sp: 
+  sp: Visitamos este mundo misterioso. Es
+  
+      mucho más pequeño que los otros mundos
+      
+      encontrados hasta ahora.
+
   fr: Nous visitons un monde mystérieux,
 
       il est bien plus petit que ceux que
@@ -418,12 +523,15 @@
   gr: Auf zum Computer, wenn bereit!
   it: 
 - id: 0x2A52
-  en: It seems like it's an arena. We have against
+  en: It seems like it's an arena. We have to face
 
-      the heartless and won the day.
+      against heartless and win the day.
 
       
-  sp: 
+  sp: Parece que es una arena. Tenemos que
+  
+      enfrentar los Sincorazón y alzarnos victoriosos.
+
   fr: On dirait une sorte d'arène, nous y avons
 
       affronté des Sans-cæur et gagné.
@@ -440,7 +548,7 @@
   it: 
 - id: 0x2A53
   en: Head to the computer, but with a "Magnet"!
-  sp: 
+  sp: ¡Dirígete al ordenador, pero con "Magneto"!
   fr: Examinez l'ordinateur avec la magie "Aimant"!
   gr: Auf zum Computer, aber mit "Magnet"!
   it: 
@@ -451,7 +559,12 @@
 
       await us next time?
 
-  sp: 
+  sp: Esta vez tuvimos que competir contra un grupo de
+  
+      incorpóreos. Que oponentes nos esperarán
+      
+      la próxima vez?
+
   fr: Cette fois-ci, nous avons affronté des Simili.
 
       Je me demande ce qui nous attend
@@ -468,7 +581,7 @@
   it: 
 - id: 0x2A55
   en: Head to the computer, but with Drive Gauge 5!
-  sp: 
+  sp: ¡Dirígete al ordenador, pero con un indicador de Fusión de 5!
   fr: Examinez l'ordinateur avec une jauge de flux à 5!
   gr: Auf zum Computer, aber mit Drive-Wert 5!
   it: 
@@ -479,7 +592,12 @@
 
       an ominous negativity.
 
-  sp: 
+  sp: Esta vez nos las vimos con unos oponentes desconocidos.
+  
+      Se movían de forma extraña y radiaban
+      
+      una ominosa negatividad.
+
   fr: Cette fois, nous avons dû affronter
 
       des ennemis inconnus.
@@ -498,7 +616,7 @@
   it: 
 - id: 0x2A57
   en: Head to the computer, but with "Magnera"!
-  sp: 
+  sp: ¡Dirígete al ordenador, pero con "Magneto+"!
   fr: Examinez l'ordinateur avec la magie "Aimant +"!
   gr: Auf zum Computer, aber mit "Magnera"!
   it: 
@@ -509,7 +627,12 @@
 
       special, but incredibly strong.
 
-  sp: 
+  sp: Esta vez nuestros rivales eran algo
+  
+      "Mágicos". En cualquier caso, eran
+      
+      muy especiales, pero increíblemente fuertes.
+
   fr: Nos adversaires cette fois étaient comme 
   
       "magique". Ils étaient spéciaux 
@@ -526,7 +649,7 @@
   it: 
 - id: 0x2A5B
   en: Head to the computer, but with "Thundaga"!
-  sp: 
+  sp: ¡Dirígete al ordenador, pero con "Electro++"!
   fr: Examinez l'ordinateur avec "Foudre X"!
   gr: Auf zum Computer, aber mit "Blitzga"!
   it: 
@@ -538,7 +661,15 @@
       Sora only narrowly defeated him.
 
 
-  sp: 
+  sp: Esta vez el rey de esta arena era
+  
+      nuestro rival. Emanaba un increíble
+      
+      poder oscuro. Finalmente Sora pudo
+      
+      derrotarlo pero por los pelos.
+
+
   fr: Cette fois-ci, notre adversaire était
 
       le roi de cette arène.
@@ -557,37 +688,37 @@
   it: 
 - id: 0x4B14
   en: Mastering the "Heartless" challenge once again
-  sp: 
+  sp: Superando el desafío "Sincorazón" de nuevo
   fr: Passe l'épreuve des Sans-cæurs une nouvelle fois.
   gr: Noch einmal "Herzlose" Herausforderung Meistern
   it: 
 - id: 0x4B15
   en: Mastering the "Nobody" challenge once again
-  sp: 
+  sp: Superando el desafío "Incorpóreo" de nuevo
   fr: Passe l'épreuve des Similis une nouvelle fois.
   gr: Noch einmal "Niemande" Herausforderung Meistern
   it: 
 - id: 0x4B16
   en: Mastering the "Unversed" challenge once again
-  sp: 
+  sp: Superando el desafío "Nesciente" de nuevo
   fr: Passe l'épreuve des Nescients une nouvelle fois.
   gr: Noch einmal "Unversierte" Herausforderung Meistern
   it: 
 - id: 0x4B17
   en: Mastering the "Dream Eater" challenge once again
-  sp: 
+  sp: Superando el desafío "Onírido" de nuevo
   fr: Passe l'épreuve des Avale-Rêves une nouvelle fois.
   gr: Noch einmal "Traumfänger" Herausforderung Meistern
   it: 
 - id: 0x4B18
   en: Mastering the "Noheart" challenge once again
-  sp: 
+  sp: Superando el desafío "Noheart" de nuevo.
   fr: Passe l'épreuve de Noheart une nouvelle fois.
   gr: Noch einmal "Noheart" Herausforderung Meistern
   it: 
 - id: 0x4B45
   en: Foresight unto Darkness
-  sp: 
+  sp: Oscuridad Manifiesta
   fr: Prépare toi pour les ténèbres.
   gr: Ein Blick in die Dunkelheit
   it: 
