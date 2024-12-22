@@ -1,6 +1,6 @@
 - id: 0x487C
   en: Land in Mirage-Arena
-  sp: 
+  sp: Visitar el Coso Virtual
   fr: Atterrir à l'Arène des Mirages 
   gr: Lande in Mirage-Arena
   it: 
@@ -8,7 +8,9 @@
   en: The next challenge will be unlocked when you
 
       have mastered the "Magnet" magic.
-  sp: 
+  sp: Necesitas aprender la magia Magneto+ para poder
+  
+      acceder al siguiente desafío.
   fr: Un nouveau défi vous attendra lorsque vous
 
       maîtriserez la magie "Aimant".
@@ -20,7 +22,9 @@
   en: The next challenge is unlocked, when your
 
       Drive Gauge has 5 or more units.
-  sp: 
+  sp: El siguiente desafío se desbloqueará cuando
+
+      el indicador de Fusión alcance 5 o más unidades.
   fr: Un nouveau défi vous attendra lorsque votre
 
       jauge de flux sera supérieure ou égale à 5.
@@ -32,7 +36,9 @@
   en: The next challenge will be unlocked when you
 
       have mastered the "Magnera" magic.
-  sp: 
+  sp: Necesitas aprender la magia Magneto++ para poder
+  
+      acceder al siguiente desafío.
   fr: Un nouveau défi vous attendra lorsque vous
 
       maîtriserez la magie "Aimant +".
@@ -44,7 +50,9 @@
   en: The next challenge will be unlocked when you
 
       have mastered the "Thundaga" magic.
-  sp: 
+  sp: Necesitas aprender la magia Electro++ para poder
+  
+      acceder al siguiente desafío.
   fr: Un nouveau défi vous attendra lorsque vous
 
       maîtriserez la magie "Foudre X".
