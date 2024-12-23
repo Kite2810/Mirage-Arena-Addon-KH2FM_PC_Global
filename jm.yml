@@ -3,13 +3,13 @@
   sp: Coso Virtual
   fr: Arène des Mirages
   gr: Mirage-Arena
-  it: Mirage Arena
+  it: Arena del Miraggio
 - id: 0x36A6
   en: Mirage Arena
   sp: Coso Virtual
   fr: Arène des Mirages
   gr: Mirage-Arena
-  it: Mirage Arena
+  it: Arena del Miraggio
 - id: 0x2BB3
   en: We have found a mysterious place.
 
@@ -54,7 +54,16 @@
       
       
       
-  it: 
+  it: Abbiamo trovato un luogo misterioso.
+
+      Il suo aspetto richiama gli altri mondi là fuori.
+      
+      Tuttavia,questo mondo è molto più piccolo
+
+      di quelli visitati finora.
+
+
+
 - id: 0x2BB4
   en: When we entered the place, there was  only a 
 
@@ -94,7 +103,14 @@
 
 
       "Herausforderung starten?"
-  it: 
+  it: Una volta entrati, ci si presentava davanti solo
+
+      un computer. Dopo averlo ispezionato da vicino,
+
+      lo schermo ci ha mostrato le seguenti parole.
+
+
+      "Iniziare la sfida?"
 - id: 0x2BB5
   en: After Sora dialed in, we were transported to
 
@@ -167,7 +183,23 @@
 
 
 
-  it: 
+  it: Non appena Sora vi ha interagito, siamo stati
+
+      trasportati in un'arena. Quì, Sora ha affrontato
+
+      gli Heartless da solo, sconfiggendoli.
+
+
+      
+      Dopo la vittoria, siamo stati ritrasportati
+
+      al computer
+
+
+      Forse dovremmo tornare dopo.
+
+
+
 - id: 0x2BB6
   en: After we came back later
 
@@ -235,7 +267,23 @@
       kommen.
 
 
-  it: 
+  it: Una volta ritornati
+
+      siamo riusciti a partecipare ancora a una sfida.
+
+      challenge again.
+
+      
+      Questa volta Sora ha dovuto affrontare 
+
+      un gruppo di Nessuno.
+
+
+      Dopo la vittoria di Sora, abbiamo deciso di 
+
+      andarcene e ritornare in un altro momento.
+
+
 - id: 0x2BB7
   en: We landed a third time in this world
 
@@ -308,7 +356,24 @@
 
 
 
-  it: 
+  it: Siamo atterrati in questo luogo per la 
+
+      terza volta e partecipato a una sfida.
+
+      
+
+      Questa volta Sora ha dovuto affrontare
+
+      dei nemici misteriosi. 
+
+
+
+      Erano molto diversi dai nemici 
+
+      incontrati fino a quel momento.
+
+
+
 - id: 0x2BB8
   en: Now that we have landed a fourth time in
 
@@ -343,7 +408,14 @@
 
 
 
-  it: 
+  it: Atterrati in questo mondo per la
+
+      quarta volta, ci siamo chiesti quando
+
+       avremmo completato tutte le sfide.
+
+
+
 - id: 0x2BB9
   en: This time we faced unknown opponents again.
 
@@ -377,8 +449,13 @@
       "Traumartiges" an sich.
 
 
+  it: Ci siamo ancora imbattuti in nemici sconosciuti.
 
-  it: 
+      Avevano qualcosa di magico, una certa
+
+      qualità onirica, sembrava essere un "sogno".
+
+
 - id: 0x2BBA
   en: This is the fifth time we've been 
 
@@ -488,7 +565,33 @@
 
       Was ein interessanter Ort.
 
-  it: 
+  it: È la quinta volta che siamo quì 
+
+      Cosa ci aspetterà adesso?
+
+      
+
+
+
+
+      Questa volta abbiamo affrontato 
+
+      un uomo sconosciuto. Aveva 
+
+      una corona ed era molto più forte
+
+      dei nemici già incontrati.
+
+      Tuttavia, Sora è stato in grado 
+
+      di uscirne vincitore e abbiamo 
+
+      ricevuto un materiale.
+
+
+
+      Che luogo affascinante.
+
 - id: 0x2A4E
   en: We visit this mysterious world. It is
 
@@ -514,14 +617,18 @@
 
       wir besucht haben.
 
+  it: Visitiamo questo mondo misterioso. È molto
 
-  it: 
+      più piccolo degli altri mondi che abbiamo
+
+      visitato.
+
 - id: 0x2A4F
   en: Head to the computer when ready!
-  sp: 
+  sp: ¡Dirígete al ordenador cuando estés listo!
   fr: Examinez l'ordinateur lorsque vous serez prêt.
   gr: Auf zum Computer, wenn bereit!
-  it: 
+  it: Dirigiti al computer una volta pronto!
 - id: 0x2A52
   en: It seems like it's an arena. We have to face
 
@@ -545,13 +652,17 @@
       getragen.
 
 
-  it: 
+  it: Sembrerebbe un'arena. Abbiamo combattuto
+
+      gli Heartless e vinto quel giorno.
+
+
 - id: 0x2A53
   en: Head to the computer, but with a "Magnet"!
   sp: ¡Dirígete al ordenador, pero con "Magneto"!
   fr: Examinez l'ordinateur avec la magie "Aimant"!
   gr: Auf zum Computer, aber mit "Magnet"!
-  it: 
+  it: Dirigiti al computer, ma con un "Magnete"!
 - id: 0x2A54
   en: This time we had to compete against a bunch of
 
@@ -577,14 +688,18 @@
 
       uns wohl nächstes mal erwarten?
 
+  it: Questa volta abbiamo dovuto sconfiggere
 
-  it: 
+      alcuni Nobody. Quali nemici ci attendono 
+
+      alla prossima?
+
 - id: 0x2A55
   en: Head to the computer, but with Drive Gauge 5!
   sp: ¡Dirígete al ordenador, pero con un indicador de Fusión de 5!
   fr: Examinez l'ordinateur avec une jauge de flux à 5!
   gr: Auf zum Computer, aber mit Drive-Wert 5!
-  it: 
+  it: Dirigiti al computer, ma con una Barra Turbo 5!
 - id: 0x2A56
   en: This time we had to face unknown opponents.
 
@@ -613,13 +728,19 @@
       eine unheilvolle Negativität aus.
 
 
-  it: 
+  it: Questa volta abbiamo affrontato nemici.
+
+      sconosciuti. Si muovevano in modo inquietante
+
+      ed emanavano energia negativa.
+
+
 - id: 0x2A57
   en: Head to the computer, but with "Magnera"!
   sp: ¡Dirígete al ordenador, pero con "Magneto+"!
   fr: Examinez l'ordinateur avec la magie "Aimant +"!
   gr: Auf zum Computer, aber mit "Magnera"!
-  it: 
+  it: Dirigiti al computer, ma con "Magnera"!
 - id: 0x2A5A
   en: Our opponents this time were somehow
 
@@ -645,14 +766,18 @@
 
       besonders, aber unfassbar stark.
 
+  it: I nostri avversari stavolta erano un pò
 
-  it: 
+      "Magici". In ogni caso, erano molto
+
+      speciali, ed incredibilmente forti.
+
 - id: 0x2A5B
   en: Head to the computer, but with "Thundaga"!
   sp: ¡Dirígete al ordenador, pero con "Electro++"!
   fr: Examinez l'ordinateur avec "Foudre X"!
   gr: Auf zum Computer, aber mit "Blitzga"!
-  it: 
+  it: Dirigiti al computer, ma con "Thundaga"!
 - id: 0x2A5C
   en: The king of this arena was our opponent
 
@@ -678,6 +803,7 @@
       
       Sora l'a vaincu, mais de peu.
 
+
   gr: Der König dieser Arena war dieses mal
 
       unser Gegner. Er strahlte große dunkle
@@ -685,40 +811,46 @@
       Kraft aus. Sora bezwang ihn nur knapp.
 
 
-  it: 
+  it: Il Re di quest'arena era il nostro avversario.
+
+      Emanava un'immensa energia oscura.
+
+      Sora lo ha sconfitto per un soffio.
+
+
 - id: 0x4B14
   en: Mastering the "Heartless" challenge once again
   sp: Supera el desafío "Sincorazón" de nuevo
   fr: Passe l'épreuve des Sans-cæurs une nouvelle fois
   gr: Noch einmal "Herzlose" Herausforderung Meistern
-  it: 
+  it: Completa ancora la sfida "Heartless"
 - id: 0x4B15
   en: Mastering the "Nobody" challenge once again
   sp: Supera el desafío "Incorpóreo" de nuevo
   fr: Passe l'épreuve des Similis une nouvelle fois
   gr: Noch einmal "Niemande" Herausforderung Meistern
-  it: 
+  it: Completa ancora la sfida "Nessuno"
 - id: 0x4B16
   en: Mastering the "Unversed" challenge once again
   sp: Supera el desafío "Nesciente" de nuevo
   fr: Passe l'épreuve des Nescients une nouvelle fois
   gr: Noch einmal "Unversierte" Herausforderung Meistern
-  it: 
+  it: Completa ancora la sfida "Nesciens"
 - id: 0x4B17
   en: Mastering the "Dream Eater" challenge once again
   sp: Supera el desafío "Onírido" de nuevo
   fr: Passe l'épreuve des Avale-Rêves une nouvelle fois
   gr: Noch einmal "Traumfänger" Herausforderung Meistern
-  it: 
+  it: Completa ancora la sfida "Dream Eater"
 - id: 0x4B18
   en: Mastering the "Noheart" challenge once again
   sp: Supera el desafío "Noheart" de nuevo.
   fr: Passe l'épreuve de Noheart une nouvelle fois
   gr: Noch einmal "Noheart" Herausforderung Meistern
-  it: 
+  it: Completa ancora la sfida "Noheart"
 - id: 0x4B45
   en: Foresight unto Darkness
   sp: Oscuridad Manifiesta
   fr: Prépare toi pour les ténèbres
   gr: Ein Blick in die Dunkelheit
-  it: 
+  it: Lungimiranza verso l'Oscurità

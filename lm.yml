@@ -3,31 +3,31 @@
   sp: ¡Derrota a todos los Sincorazón!
   fr: Élimine tout les Sans-cæur !
   gr: Besiege alle Herzlosen!
-  it: 
+  it: Sconfiggi tutti gli Heartless!
 - id: 0x1384
   en: Defeat all of the Nobodies!
   sp: ¡Derrota a todos los Incorpóreos!
   fr: Élimine tout les Simili !
   gr: Besiege alle Niemande!
-  it: 
+  it: Sconfiggi tutti i Nessuno!
 - id: 0x1385
   en: Defeat all of the Unversed!
   sp: ¡Derrota a todos los Nescientes!
   fr: Élimine tout les Nescient !
   gr: Besiege alle Unversierte!
-  it: 
+  it: Sconfiggi tutti i Nesciens!
 - id: 0x1386
   en: Defeat all of the Dream Eater!
   sp: ¡Derrota a todos los Oníridos!
   fr: Élimine tout les Avale-Rêve !
   gr: Besiege alle Traumfänger!
-  it: 
+  it: Sconfiggi tutti i Dream Eater!
 - id: 0x1387
   en: Defeat Noheart!
   sp: ¡Derrota a Noheart!
   fr: Élimine Noheart !
   gr: Besiege Noheart!
-  it: 
+  it: Sconfiggi Noheart!
 - id: 0x46CB
   en: Start challenge?
 
@@ -49,43 +49,47 @@
       {:chardelay 33 00}Ich fühl mich nicht bereit.
 
       {:chardelay 09 00}Gehen wir es an!
-  it: 
+  it: Iniziare la sfida?
+
+      {:chardelay 33 00}Non sono pronto.
+
+      {:chardelay 09 00}Facciamolo!
 - id: 0x4D2C
   en: Mirage Arena
   sp: Coso Virtual
   fr: Arène des Mirages
   gr: Mirage-Arena
-  it: Mirage Arena
+  it: Arena del Miraggio
 - id: 0x14BF
   en: Heartless
   sp: Sincorazón
   fr: Sans-cæur
   gr: Herzlose
-  it: 
+  it: Heartless
 - id: 0x14C0
   en: Nobody
   sp: Incorpóreo
   fr: Simili
   gr: Niemande
-  it: 
+  it: Nessuno
 - id: 0x14C1
   en: Unversed
   sp: Nesciente
   fr: Nescient
   gr: Unversierte
-  it: 
+  it: Nesciens
 - id: 0x14C2
   en: Dream Eater
   sp: Onírido
   fr: Avale-Rêve
   gr: Traumfänger
-  it: 
+  it: Dream Eater
 - id: 0x14C3
   en: Noheart
   sp: Noheart
   fr: Noheart
   gr: Noheart
-  it: 
+  it: Noheart
 - id: 0x14C5
   en: Defeat all of the 
 
@@ -105,7 +109,9 @@
       Besiege alle Herzlosen!
 
       
-  it: 
+  it: Sconfiggi tutti gli 
+
+      Heartless!
 - id: 0x14C8
   en: Defeat all of the
 
@@ -127,7 +133,9 @@
       Besiege alle Niemande!
 
       
-  it: 
+  it: Sconfiggi tutti i 
+
+      Nessuno!
 - id: 0x14CB
   en: Defeat all of the
 
@@ -149,7 +157,9 @@
       Besiege alle Unversierte!
 
       
-  it: 
+  it: Sconfiggi tutti i 
+
+      Nesciens!
 - id: 0x14CE
   en: Defeat all of the
 
@@ -169,7 +179,9 @@
       Besiege alle Traumfänger!
 
 
-  it: 
+  it: Sconfiggi tutti i 
+
+      Dream Eater!
 - id: 0x14D1
   en: 
 
@@ -192,18 +204,22 @@
 
       
   it: 
+
+      Sconfiggi Noheart
+
+      
 - id: 0x14D5
   en: Select a challenge.
   sp: Elige un desafío.
   fr: Choisissez une épreuve.
   gr: Wähle eine Herausforderung aus.
-  it: 
+  it: Seleziona una sfida
 - id: 0x14D6
   en: Start this challenge?
   sp: ¿Iniciar este desafío?
   fr: Participer à cette épreuve?
   gr: Diese Herausforderung starten?
-  it: 
+  it: Vuoi iniziare questa sfida?
 - id: 0x46CC
   en: CREDITS{:clear }Assets
 
@@ -241,11 +257,11 @@
 
       Kité{:clear }French Translation
 
-      Napstio{:clear }Italia Translation
+      Napstio{:clear }Italian Translation
 
-      Abelatox{:clear }Spanish Translation
+      Kuxir{:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -274,6 +290,7 @@
       NMC
 
       Osdanova{:clear }Thanks for Playing!
+
   sp: CREDITS{:clear }Assets
 
       Square Enix{:clear }Desarrollador del mod
@@ -312,7 +329,7 @@
 
       Napstio{:clear }Traducción al italiano
 
-      {:clear }Traducción al español
+      Kuxir{:clear }Traducción al español
 
       Abelatox{:clear }Herramientas
 
@@ -352,11 +369,11 @@
 
       Kité{:clear }Layout Menü
 
+      Kité{:clear }Unversed
+
       Kité
 
-      Napstio{:clear }Unversed
-
-      Kité{:clear }Dream Eater
+      Napstio{:clear }Dream Eater
 
       Kité{:clear }Noheart
 
@@ -380,11 +397,11 @@
 
       Kité{:clear }French Translation
 
-      Napstio{:clear }Italia Translation
+      Napstio{:clear }Italian Translation
 
-      Abelatox{:clear }Spanish Translation
+      Kuxir{:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -450,11 +467,11 @@
 
       Kité{:clear }French Translation
 
-      Napstio{:clear }Italia Translation
+      Napstio{:clear }Italian Translation
 
-      Abelatox{:clear }Spanish Translation
+      Kuxir{:clear }Spanish Translation
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -483,29 +500,30 @@
       NMC
 
       Osdanova{:clear }Thanks for Playing!
+
   it: CREDITS{:clear }Assets
 
       Square Enix{:clear }Mod Developer
 
-      Kité{:clear }Maps
+      Kité{:clear }Mappe
 
-      Kité{:clear }Layout Menü
+      Kité{:clear }Layout Menù
+
+      Kité{:clear }Nesciens
 
       Kité
 
-      Napstio{:clear }Unversed
-
-      Kité{:clear }Dream Eater
+      Napstio{:clear }Dream Eater
 
       Kité{:clear }Noheart
 
-      Kité{:clear }Animations
+      Kité{:clear }Animazioni
 
       Kité{:clear }Keyblade
 
       Kité{:clear }Pax Editing
 
-      Zack "The Puppy" Fair{:clear }Vanilla Unversed
+      Zack "The Puppy" Fair{:clear }Nesciens Vanilla
 
       Mikote111{:clear }Worldmap World Object
 
@@ -513,17 +531,17 @@
 
       NMC{:clear }Mirage-Arena Logo
 
-      Revenir{:clear }German Translation
+      Revenir{:clear }Traduzione tedesca
 
-      Kité{:clear }English Translation
+      Kité{:clear }Traduzione inglese
 
-      Kité{:clear }French Translation
+      Kité{:clear }Traduzione francese
 
-      Napstio{:clear }Italia Translation
+      Napstio{:clear }Traduzione italiana
 
-      Abelatox{:clear }Spanish Translation
+      Kuxir{:clear }Traduzione spagnola
 
-      {:clear }Tools
+      Abelatox{:clear }Tools
 
       OpenKH{:clear }Listpatches
 
@@ -551,4 +569,4 @@
 
       NMC
 
-      Osdanova{:clear }Thanks for Playing!
+      Osdanova{:clear }Grazie per aver giocato!
