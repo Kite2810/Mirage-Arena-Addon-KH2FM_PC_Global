@@ -1,5 +1,5 @@
-2572:
-  ObjectId: 2572
+3500:
+  ObjectId: 3500
   ObjectType: F_OBJ
   SubType: 0
   DrawPriority: 0
@@ -28,8 +28,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2573:
-  ObjectId: 2573
+3501:
+  ObjectId: 3501
   ObjectType: F_OBJ
   SubType: 0
   DrawPriority: 0
@@ -58,8 +58,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2574:
-  ObjectId: 2574
+3502:
+  ObjectId: 3502
   ObjectType: F_OBJ
   SubType: 0
   DrawPriority: 0
@@ -88,8 +88,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2575:
-  ObjectId: 2575
+3503:
+  ObjectId: 3503
   ObjectType: F_OBJ
   SubType: 0
   DrawPriority: 0
@@ -118,8 +118,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2576:
-  ObjectId: 2576
+3504:
+  ObjectId: 3504
   ObjectType: ZAKO
   SubType: 0
   DrawPriority: 0
@@ -148,8 +148,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2577:
-  ObjectId: 2577
+3505:
+  ObjectId: 3505
   ObjectType: ZAKO
   SubType: 0
   DrawPriority: 0
@@ -178,8 +178,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2578:
-  ObjectId: 2578
+3506:
+  ObjectId: 3506
   ObjectType: ZAKO
   SubType: 0
   DrawPriority: 0
@@ -208,8 +208,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2579:
-  ObjectId: 2579
+3507:
+  ObjectId: 3507
   ObjectType: ZAKO
   SubType: 0
   DrawPriority: 0
@@ -238,8 +238,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2580:
-  ObjectId: 2580
+3508:
+  ObjectId: 3508
   ObjectType: L_ZAKO
   SubType: 0
   DrawPriority: 0
@@ -268,8 +268,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2581:
-  ObjectId: 2581
+3509:
+  ObjectId: 3509
   ObjectType: ZAKO
   SubType: 0
   DrawPriority: 0
@@ -298,8 +298,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2582:
-  ObjectId: 2582
+3510:
+  ObjectId: 3510
   ObjectType: BOSS
   SubType: 0
   DrawPriority: 0
@@ -328,8 +328,8 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
-2583:
-  ObjectId: 2583
+3511:
+  ObjectId: 3511
   ObjectType: BOSS
   SubType: 0
   DrawPriority: 0
