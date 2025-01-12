@@ -358,3 +358,33 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
+3512:
+  ObjectId: 3512
+  ObjectType: F_OBJ
+  SubType: 0
+  DrawPriority: 0
+  WeaponJoint: 0
+  ModelName: F_ARENARING2
+  AnimationName: F_ARENARING2.mset
+  Flags: 0
+  ObjectTargetType: M
+  Padding: 0
+  NeoStatus: 4000
+  NeoMoveset: 0
+  Weight: 0
+  SpawnLimiter: 0
+  Page: 0
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  SpawnObject1: 0
+  SpawnObject2: 0
+  SpawnObject3: 0
+  SpawnObject4: 0
+  NoApdx: true
+  Before: false
+  FixColor: false
+  Fly: false
+  Scissoring: true
+  IsPirate: false
+  WallOcclusion: false
+  Hift: false
