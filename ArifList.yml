@@ -1,0 +1,3017 @@
+Atlantica: #End of Sea. Names are taken from worlds.md #IsKnownArea, IndoorArea, Monochrome #Other acceptable flags are NoShadow and HasGlow.
+  11:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  12:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  13:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  14:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  15:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  16:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  17:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  18:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  19:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  20:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  21:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  22:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  23:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  24:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  25:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  26:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  27:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  28:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  29:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  30:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  31:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  32:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  33:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  34:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  35:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  36:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  37:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  38:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  39:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  40:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  41:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  42:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  43:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  44:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  45:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  46:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  47:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  48:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  49:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  50:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  51:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  52:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  53:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  54:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  55:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  56:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  57:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  58:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  59:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  60:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  61:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  62:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  63:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  64:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  65:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  66:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  67:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  68:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  69:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  70:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  71:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  72:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  73:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  74:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  75:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  76:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  77:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  78:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  79:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  80:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  81:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  82:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  83:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  84:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  85:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  86:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  87:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  88:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  89:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  90:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  91:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  92:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  93:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  94:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  95:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  96:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  97:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  98:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  99:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  100:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  101:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  102:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  103:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  104:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  105:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  106:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  107:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  108:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  109:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  110:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  111:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  112:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  113:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  114:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  115:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  116:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  117:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  118:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  119:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  120:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  121:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  122:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  123:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  124:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  125:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
+  126:
+    Flags: IsKnownArea
+    Reverb: -1
+    SoundEffectBank1: -1
+    SoundEffectBank2: -1
+    Bgms:
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+      - BgmField: 0
+        BgmBattle: 0
+    Voice: 0
+    NavigationMapItem: 0
+    Command: 0
+    Reserved: []
