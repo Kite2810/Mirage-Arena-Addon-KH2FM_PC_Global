@@ -31,3 +31,135 @@
   Experience: 0
   Prize: 0
   BonusLevel: 0
+#BEHEMOTH
+- Id: 256
+  Level: 35
+  Health:
+  - 1200
+  MaxDamage: 150
+  MinDamage: 34
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+- Id: 257
+  Level: 90
+  Health:
+  - 1200
+  MaxDamage: 150
+  MinDamage: 34
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+#TWILLIGHT_THORN
+- Id: 258
+  Level: 40
+  Health:
+  - 1500
+  MaxDamage: 100
+  MinDamage: 34
+  PhysicalWeakness: 100
+  FireWeakness: 50
+  IceWeakness: 50
+  ThunderWeakness: 50
+  DarkWeakness: 50
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+- Id: 259
+  Level: 90
+  Health:
+  - 1500
+  MaxDamage: 100
+  MinDamage: 34
+  PhysicalWeakness: 100
+  FireWeakness: 50
+  IceWeakness: 50
+  ThunderWeakness: 50
+  DarkWeakness: 50
+  LightWeakness: 10
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+#Iron_Prisoner
+- Id: 260
+  Level: 45
+  Health:
+  - 1250
+  MaxDamage: 85
+  MinDamage: 34
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+- Id: 261
+  Level: 90
+  Health:
+  - 1500
+  MaxDamage: 80
+  MinDamage: 30
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+#Amored_Ventus_Nightmare
+- Id: 262
+  Level: 50
+  Health:
+  - 1000
+  MaxDamage: 60
+  MinDamage: 25
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
+- Id: 263
+  Level: 90
+  Health:
+  - 1000
+  MaxDamage: 60
+  MinDamage: 25
+  PhysicalWeakness: 100
+  FireWeakness: 100
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 0
+  Prize: 0
+  BonusLevel: 0
