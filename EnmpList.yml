@@ -163,3 +163,20 @@
   Experience: 0
   Prize: 0
   BonusLevel: 0
+#Thornbite
+- Id: 264
+  Level: 0
+  Health:
+  - 80
+  MaxDamage: 10000
+  MinDamage: 500
+  PhysicalWeakness: 100
+  FireWeakness: 50
+  IceWeakness: 100
+  ThunderWeakness: 100
+  DarkWeakness: 100
+  LightWeakness: 100
+  GeneralWeakness: 100
+  Experience: 75
+  Prize: 0
+  BonusLevel: 0

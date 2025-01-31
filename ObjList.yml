@@ -628,3 +628,33 @@
   IsPirate: false
   WallOcclusion: false
   Hift: false
+3521:
+  ObjectId: 3521
+  ObjectType: ZAKO
+  SubType: 0
+  DrawPriority: 0
+  WeaponJoint: 0
+  ModelName: M_THORNBITE
+  AnimationName: M_THORNBITE.mset
+  Flags: 0
+  ObjectTargetType: M
+  Padding: 0
+  NeoStatus: 1027
+  NeoMoveset: 0
+  Weight: 100
+  SpawnLimiter: 10
+  Page: 1
+  ObjectShadowSize: SmallShadow
+  ObjectForm: Default
+  SpawnObject1: 0
+  SpawnObject2: 0
+  SpawnObject3: 0
+  SpawnObject4: 0
+  NoApdx: false
+  Before: false
+  FixColor: false
+  Fly: false
+  Scissoring: false
+  IsPirate: false
+  WallOcclusion: false
+  Hift: false
