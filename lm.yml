@@ -570,3 +570,48 @@
       NMC
 
       Osdanova{:clear }Grazie per aver giocato!
+
+#- id: 0x46CD
+#  en: Select a Character{:clear}{:chardelay 33 00}No change.
+#      
+#      {:chardelay 34 00} Sora
+#
+#      {:chardelay 35 00} Roxas
+#
+#      {:chardelay 36 00} Riku
+#
+#      {:chardelay 37 00} Kairi
+#
+#      {:chardelay 38 00} Xion
+#
+#      {:chardelay 39 00} Ventus
+#
+#      {:chardelay 3A 00} Aqua
+#
+#      {:chardelay 3B 00} Terra
+#
+#      {:chardelay 3C 00} Vanitas
+#
+#  sp: -
+#  fr: -
+#  gr: Wähle eine Charakter aus.{:clear}{:chardelay 33 00}Nicht ändern.
+#      
+#      {:chardelay 34 00} Sora
+#
+#      {:chardelay 35 00} Roxas
+#
+#      {:chardelay 36 00} Riku
+#
+#      {:chardelay 37 00} Kairi
+#
+#      {:chardelay 38 00} Xion
+#
+#      {:chardelay 39 00} Ventus
+#
+#      {:chardelay 3A 00} Aqua
+#
+#      {:chardelay 3B 00} Terra
+#
+#      {:chardelay 3C 00} Vanitas
+#
+#  it: -
